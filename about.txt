@@ -1,0 +1,6 @@
+https://github.com/burakorkmez/graphql-crash-course
+GraphQL Crash Course in 2024 | Build a Full Stack MERN App
+GraphQL from Express
+https://www.youtube.com/watch?v=Vr-QHtbmd38&list=PLNEhktk_WNzpC3JnwmksayfVEK3qhFc6S&index=7
+Mongo session with Passport instead of JWT   graphql-passport
+with cron job keeping Render deployment alive
